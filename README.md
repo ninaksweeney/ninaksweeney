@@ -1,11 +1,11 @@
 ### Hi there! Welcome to my projects. A little bit about me...
 
-- My current goal is to join a team using data science to further climate justice & find innovative solutions to climate change
-- I'm a recent graduate of Metis Data Science & Machine Learning bootcamp
-- I'm a previous liberal arts student with a degree in International Studies from Middlebury College
-- I'd love to collaborate on climate & social justice related projects! 
-- I spend my time rock climbing, drawing, and consuming British TV 
-- My pronouns are she/her
+- :earth_africa: My current goal is to join a team using data science to further climate justice & find innovative solutions to climate change
+- :bulb: I'm a recent graduate of Metis Data Science & Machine Learning bootcamp
+- :books: I'm a previous liberal arts student with a degree in International Studies from Middlebury College
+- :tada: I'd love to collaborate on climate & social justice related projects! 
+- :sunrise_over_mountains: I spend my time rock climbing, drawing, and consuming British TV 
+- :blush: My pronouns are she/her
 
 <!--
 **ninaksweeney/ninaksweeney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
