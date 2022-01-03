@@ -4,7 +4,7 @@
 - :bulb: I'm a recent graduate of Metis Data Science & Machine Learning bootcamp
 - :books: I'm a previous liberal arts student with a degree in International Studies from Middlebury College
 - :tada: I'd love to collaborate on climate & social justice related projects! 
-- :sunrise_over_mountains: I spend my time rock climbing, drawing, learning piano and watching competition TV shows (Ink Master, anyone?)
+- :sunrise_over_mountains: I spend my time rock climbing, drawing, learning piano, and watching competition TV shows (Ink Master, anyone?)
 - :blush: My pronouns are she/her
 
 <!--
